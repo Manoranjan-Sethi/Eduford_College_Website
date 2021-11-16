@@ -1,8 +1,5 @@
 # Eduford_College_Website
 
-# Eduford_College_Website
-
-
 A simple multipage responsive college website using HTML ,CSS and JavaScript 
 
 ## Demo
